@@ -1,0 +1,41 @@
+/*Estilos da página index.html*/
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+    align-items: flex-start;
+    padding: 30px;
+}
+
+.img {
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+}
+
+.video {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 20px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+#meni li a:hover {
+    color:grey;
+}
+
+
+/*Estilos da página compra.html*/
